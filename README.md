@@ -1,54 +1,40 @@
-<h1 align="center">Merhaba 👋, Ben Ali Topuz</h1>
-<h3 align="center">React / React Native / Next.js Geliştiricisi | .NET MVC Uzmanı | Python ile Çalışmalar Yapan Geliştirici</h3>
+<h1 align="center">Hi 👋, I'm Ali Topuz</h1>
+<h3 align="center">React / React Native / Next.js Developer | .NET MVC Enthusiast | Python Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&width=435&lines=Merhaba!+Ben+Ali+Topuz.;React+ve+.NET+geliştiricisiyim.;Projeler+geliştirmeyi+seviyorum!;Yeni+şeyler+öğrenmek+benim+işim.">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="developer animation" />
 </p>
 
 ---
 
-- 🔭 Şu anda **React**, **React Native** ve **Next.js** teknolojileriyle projeler geliştiriyorum.
-- ⚙️ Ayrıca **C#** ve **.NET MVC** mimarisiyle birkaç proje tamamladım.
-- 🐍 **Python** diliyle de bazı küçük projeler ve denemeler gerçekleştirdim.
-- 🌍 Türkiye'de yaşıyorum, uzaktan çalışmaya ve freelance projelere açığım.
-- 💼 İş birlikleri ve proje teklifleri için: [isbirliklerialitopuz@gmail.com](mailto:isbirliklerialitopuz@gmail.com)
-- 📫 Bana ulaşmak için:
-  - Ana e-posta: [tpzali14@gmail.com](mailto:tpzali14@gmail.com)
-  - Yedek: [tpzali14yedek@gmail.com](mailto:tpzali14yedek@gmail.com)
-- 💡 Küçük bir not: Gerçek dünyadaki problemleri yazılım ile çözmeyi çok seviyorum.
+- 🔭 I’m currently working with **React**, **React Native**, and **Next.js**
+- 🛠️ I have built projects using **C#** and the **.NET MVC** architecture
+- 🐍 I’ve experimented with **Python** in personal projects
+- 🌍 Based in **Turkey** – open to remote jobs and freelance collaborations
+- 📫 Reach me anytime:
+  - Personal: [tpzali14@gmail.com](mailto:tpzali14@gmail.com)
+  - Backup: [tpzali14yedek@gmail.com](mailto:tpzali14yedek@gmail.com)
+  - Business: [isbirliklerialitopuz@gmail.com](mailto:isbirliklerialitopuz@gmail.com)
 
 ---
 
-### 🚀 Kullandığım Teknolojiler ve Araçlar:
+### 🧰 Languages & Tools I Use
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" />
 </p>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 🔍 About Me
 
-![Ali Topuz'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Alitpz&show_icons=true&theme=radical)
-
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Alitpz&layout=compact&theme=radical)
-
-### 📈 Aktiflik Grafiği
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alitpz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+I'm a self-taught software developer passionate about building clean, functional, and scalable applications. I enjoy learning new technologies and turning creative ideas into working code.
 
 ---
 
-### 📌 Hakkımda
-
-Ben Ali Topuz. Kendi kendine öğrenen bir yazılım geliştiriciyim. Web ve mobil dünyasında modern, kullanıcı odaklı ve performanslı projeler geliştirmeye odaklıyım. Yeni teknolojileri öğrenmeyi, projeler üretmeyi ve kendimi sürekli geliştirmeyi çok seviyorum.
-
----
-
-_Bu profili ziyaret ettiğin için teşekkür ederim!_
+_Thanks for visiting my profile! Feel free to connect or collaborate._
