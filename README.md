@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ali Topuz</h1>
-<h3 align="center">React / React Native / Next.js Developer | .NET MVC | Python Explorer</h3>
+<h3 align="center">React / React Native / Next.js Developer | .NET MVC Enthusiast | Python Learner</h3>
 
 <p align="center">
-  <img src="https://tse2.mm.bing.net/th?id=OIP.frJJ8v0uWOmtbdYO-JKXGwHaFj&pid=Api" width="400" alt="developer animation" />
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="developer animation" />
 </p>
 
 ---
 
 - 🔭 I’m currently working with **React**, **React Native**, and **Next.js**
-- ⚙️ I've built multiple projects using **C#** with the **.NET MVC** architecture
-- 🐍 I’ve also explored **Python** for personal tools and learning projects
-- 🌍 Based in **Turkey**, open to **remote work** and **collaborations**
-- 💼 Business contact: [isbirliklerialitopuz@gmail.com](mailto:isbirliklerialitopuz@gmail.com)
-- 📫 Personal emails:
-  - [tpzali14@gmail.com](mailto:tpzali14@gmail.com)
-  - [tpzali14yedek@gmail.com](mailto:tpzali14yedek@gmail.com)
+- 🛠️ I have built projects using **C#** and the **.NET MVC** architecture
+- 🐍 I’ve experimented with **Python** in personal projects
+- 🌍 Based in **Turkey** – open to remote jobs and freelance collaborations
+- 📫 Reach me anytime:
+  - Personal: [tpzali14@gmail.com](mailto:tpzali14@gmail.com)
+  - Backup: [tpzali14yedek@gmail.com](mailto:tpzali14yedek@gmail.com)
+  - Business: [isbirliklerialitopuz@gmail.com](mailto:isbirliklerialitopuz@gmail.com)
 
 ---
 
@@ -33,9 +33,8 @@
 
 ### 🔍 About Me
 
-I'm a self-taught software developer passionate about building clean, performant, and scalable applications.  
-I enjoy learning new technologies, exploring creative ideas, and developing real-world solutions for users.
+I'm a self-taught software developer passionate about building clean, functional, and scalable applications. I enjoy learning new technologies and turning creative ideas into working code.
 
 ---
 
-_Thanks for visiting my profile! Feel free to reach out or connect._
+_Thanks for visiting my profile! Feel free to connect or collaborate._
