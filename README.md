@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Ali Topuz</h1>
-<h3 align="center">React / React Native / Next.js Developer | .NET MVC Enthusiast | Python Learner</h3>
+<h3 align="center">React / React Native / Next.js Developer | .NET MVC | Python Enthusiast</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="developer animation" />
+  <img src="https://raw.githubusercontent.com/your-repo-path/assets/coder-cartoon.gif" width="400" alt="developer coding animation" />
 </p>
 
 ---
 
-- 🔭 I’m currently working with **React**, **React Native**, and **Next.js**
-- 🛠️ I have built projects using **C#** and the **.NET MVC** architecture
-- 🐍 I’ve experimented with **Python** in personal projects
-- 🌍 Based in **Turkey** – open to remote jobs and freelance collaborations
-- 📫 Reach me anytime:
+- 🔭 Currently working with **React**, **React Native**, and **Next.js**
+- 🛠️ Experienced in **C#** and the **.NET MVC** architecture
+- 🐍 Built several projects using **Python**
+- 🌍 Based in **Turkey**, available for remote opportunities and collaborations
+- 📫 Reach me at:
   - Personal: [tpzali14@gmail.com](mailto:tpzali14@gmail.com)
   - Backup: [tpzali14yedek@gmail.com](mailto:tpzali14yedek@gmail.com)
   - Business: [isbirliklerialitopuz@gmail.com](mailto:isbirliklerialitopuz@gmail.com)
 
 ---
 
-### 🧰 Languages & Tools I Use
+### 🧰 Tools & Technologies
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -33,7 +33,7 @@
 
 ### 🔍 About Me
 
-I'm a self-taught software developer passionate about building clean, functional, and scalable applications. I enjoy learning new technologies and turning creative ideas into working code.
+I'm a self-taught software developer who loves crafting clean, functional, and scalable applications. I enjoy learning new technologies and bringing ideas to life through code.
 
 ---
 
