@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Ali Topuz</h1>
-<h3 align="center">React / React Native / Next.js Developer | .NET MVC | Python Enthusiast</h3>
+<h3 align="center">React / React Native / Next.js Developer | .NET MVC | Python Explorer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-repo-path/assets/coder-cartoon.gif" width="400" alt="developer coding animation" />
+  <img src="https://tse2.mm.bing.net/th?id=OIP.frJJ8v0uWOmtbdYO-JKXGwHaFj&pid=Api" width="400" alt="developer animation" />
 </p>
 
 ---
 
-- 🔭 Currently working with **React**, **React Native**, and **Next.js**
-- 🛠️ Experienced in **C#** and the **.NET MVC** architecture
-- 🐍 Built several projects using **Python**
-- 🌍 Based in **Turkey**, available for remote opportunities and collaborations
-- 📫 Reach me at:
-  - Personal: [tpzali14@gmail.com](mailto:tpzali14@gmail.com)
-  - Backup: [tpzali14yedek@gmail.com](mailto:tpzali14yedek@gmail.com)
-  - Business: [isbirliklerialitopuz@gmail.com](mailto:isbirliklerialitopuz@gmail.com)
+- 🔭 I’m currently working with **React**, **React Native**, and **Next.js**
+- ⚙️ I've built multiple projects using **C#** with the **.NET MVC** architecture
+- 🐍 I’ve also explored **Python** for personal tools and learning projects
+- 🌍 Based in **Turkey**, open to **remote work** and **collaborations**
+- 💼 Business contact: [isbirliklerialitopuz@gmail.com](mailto:isbirliklerialitopuz@gmail.com)
+- 📫 Personal emails:
+  - [tpzali14@gmail.com](mailto:tpzali14@gmail.com)
+  - [tpzali14yedek@gmail.com](mailto:tpzali14yedek@gmail.com)
 
 ---
 
-### 🧰 Tools & Technologies
+### 🧰 Languages & Tools I Use
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -33,8 +33,9 @@
 
 ### 🔍 About Me
 
-I'm a self-taught software developer who loves crafting clean, functional, and scalable applications. I enjoy learning new technologies and bringing ideas to life through code.
+I'm a self-taught software developer passionate about building clean, performant, and scalable applications.  
+I enjoy learning new technologies, exploring creative ideas, and developing real-world solutions for users.
 
 ---
 
-_Thanks for visiting my profile! Feel free to connect or collaborate._
+_Thanks for visiting my profile! Feel free to reach out or connect._
