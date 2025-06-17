@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Topuz</h1>
-<h3 align="center">React / React Native / Next.js Developer | .NET MVC Enthusiast | Python Learner</h3>
+<h3 align="center">React / React Native / Next.js Developer | .NET MVC  | Python </h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="developer animation" />
