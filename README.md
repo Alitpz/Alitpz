@@ -14,7 +14,7 @@
 - 📫 Reach me anytime:
   - Personal: [tpzali14@gmail.com](mailto:tpzali14@gmail.com)
   - Backup: [tpzali14yedek@gmail.com](mailto:tpzali14yedek@gmail.com)
-  - Business: [isbirliklerialitopuz@gmail.com](mailto:isbirliklerialitopuz@gmail.com)
+  
 
 ---
 
