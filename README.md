@@ -22,19 +22,12 @@ I am a **Full-Stack Software Developer** specializing in building scalable web a
 ### 🛠️ Tech Stack & Architecture
 
 <p align="center">
+  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" alt="Frontend Stack" />
   <br />
+  <!-- Backend & Database -->
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,git,github" alt="Backend Stack" />
 </p>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
 
 ---
 
